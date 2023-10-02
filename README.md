@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **MERN/MEAN Stack Web Development, Full Stack Web Development, DSA & Algorithms**
 
-- 📫  Let's Connect Across Galaxies: 
-       1) **abhishekshinde61@gmail.com**
-       2) ** Linkedin: https://www.linkedin.com/in/abhishek-shinde-766a55221/ **
+- 📫  Let's Connect : **abhishekshinde61@gmail.com** 
 
 - ⚡ Fun fact : 
    **"I was a professional Dota 2 and CS:GO player before diving into the coding universe! 🎮"**
