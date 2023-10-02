@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinde-abhishek-au26&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Quote Of The Day
+### ✍️ "Quote Of The Day"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
