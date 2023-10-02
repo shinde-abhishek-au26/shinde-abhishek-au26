@@ -1,5 +1,7 @@
+# Welcome To Abhishek's CodeVerse 🚀🚀
+
 # 💫 About Me:
-Results-driven" full stack web developer with 1.5 years of experience in designing<br>and developing innovative web applications.<br>Proficient in MERN/MEAN stack along with java script, typescript with a strong<br>understanding of front-end and back-end development.<br>Demonstrated ability to troubleshoot and resolve complex technical issues, with a<br>passion for staying updated with the latest industry trends and technologies.<br>Proud team player focused on achieving project objectives with speed and<br>accuracy.
+Results-driven" full stack web developer in designing<br>and developing innovative web applications.<br>Proficient in MERN/MEAN stack along with java script, typescript with a strong<br>understanding of front-end and back-end development.<br>Demonstrated ability to troubleshoot and resolve complex technical issues, with a<br>passion for staying updated with the latest industry trends and technologies.<br>Proud team player focused on achieving project objectives with speed and<br>accuracy.
 
 
 ## 🌐 Socials:
@@ -15,7 +17,7 @@ Results-driven" full stack web developer with 1.5 years of experience in designi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shinde-abhishek-au26&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
