@@ -11,8 +11,9 @@
 
 - ⚡ Fun fact : 
    **"I was a professional Dota 2 and CS:GO player before diving into the coding universe! 🎮"**
-   ** "In another life, you might have found me on the virtual battlefield, mastering the intricacies of professional esports. When I'm not coding or gaming, I'm often gazing at the stars, captivated by the 
-      mysteries of the cosmos. Let's explore both the digital and celestial worlds together! 🌟" **
+
+   <b>** "In another life, you might have found me on the virtual battlefield, mastering the intricacies of professional esports. When I'm not coding or gaming, I'm 
+       often gazing at the stars, captivated by the mysteries of the cosmos. Let's explore both the digital and celestial worlds together! 🌟" **</b>
 
 - 👀 CurrentFocus **"Crafting pixel-perfect, performant web applications" **
 
