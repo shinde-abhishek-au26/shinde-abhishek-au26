@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Abhishek Shinde</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center"> 🚀✨🌟 WELCOME TO Abhishek Shinde's CODEVERSE  🚀✨🌟  </h1>
+<h3 align="center">A Passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinde-abhishek-au26&label=Profile%20views&color=0e75b6&style=flat" alt="shinde-abhishek-au26" /> </p>
 
 - 🌱 I’m currently learning **Nest.js, Next.js, React Native etc..**
 
-- 💬 Ask me about **MERN Stack Web Development**
+- 💬 Ask me about **MERN/MEAN Stack Web Development, Full Stack Web Development, DSA & Algorithms**
 
-- 📫 How to reach me **abhishekshinde61@gmail.com**
+- 📫  Let's Connect Across Galaxies: 
+       1) **abhishekshinde61@gmail.com**
+       2) ** Linkedin: https://www.linkedin.com/in/abhishek-shinde-766a55221/ **
 
-- ⚡ Fun fact **"I was a professional Dota 2 and CS:GO player before diving into the coding universe! 🎮"**
+- ⚡ Fun fact : 
+   **"I was a professional Dota 2 and CS:GO player before diving into the coding universe! 🎮"**
+   ** "In another life, you might have found me on the virtual battlefield, mastering the intricacies of professional esports. When I'm not coding or gaming, I'm often gazing at the stars, captivated by the 
+      mysteries of the cosmos. Let's explore both the digital and celestial worlds together! 🌟" **
+
+- 👀 CurrentFocus **"Crafting pixel-perfect, performant web applications" **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
