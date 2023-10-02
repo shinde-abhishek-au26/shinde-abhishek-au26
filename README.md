@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀✨🌟 WELCOME TO Abhishek Shinde's CODEVERSE  🚀✨🌟  </h1>
+<h1 align="center"> 🚀✨🌟 Welcome To Abhishek's CodeVerse  🚀✨🌟  </h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinde-abhishek-au26&label=Profile%20views&color=0e75b6&style=flat" alt="shinde-abhishek-au26" /> </p>
