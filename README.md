@@ -14,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shinde-abhishek-au26&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shinde-abhishek-au26&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shinde-abhishek-au26&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
